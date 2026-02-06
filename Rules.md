@@ -1,4 +1,0 @@
-- đặt tên
-- ngon ngữ 
-- Quy mô dự án
--Comment function theo cách ...
